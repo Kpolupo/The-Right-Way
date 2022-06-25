@@ -1,0 +1,4 @@
+- https://favpng.com/png_view/layered-psd-pixel-art-game-png/NAECU1NU = Character.png
+- https://opengameart.org/content/whispers-of-avalon-grassland-tileset = Cliff, Ground, Trees
+- https://luizmelo.itch.io/monsters-creatures-fantasy = Enemies
+- https://github.com/Brackeys/Health-Bar = bar, heart
